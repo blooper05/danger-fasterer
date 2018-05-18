@@ -1,1 +1,1 @@
-require "fasterer/plugin"
+require 'fasterer/plugin'

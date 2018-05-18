@@ -1,1 +1,1 @@
-require "fasterer/gem_version"
+require 'fasterer/gem_version'
